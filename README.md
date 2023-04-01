@@ -10,4 +10,4 @@
 ### Data Visualization 
 - Visualization was done using Tableau 
 - Which shows effect of virus around the world
-![Covid 19 analysis dashboard](https://github.com/kanhaiya221/Portfolio-Project1/blob/main/Covid19dash.png)
+![plot](https://github.com/kanhaiya221/Portfolio-Project1/blob/main/Covid19dash.png)
